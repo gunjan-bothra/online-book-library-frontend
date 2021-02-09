@@ -1,0 +1,7 @@
+This is online book library frontend application
+
+Steps to run the application
+1) Clone the repository
+2) Navigate to online-book-library-frontend folder using cd online-book-library-frontend in terminal
+3) run command - num install
+4) command to start the application - npm start
